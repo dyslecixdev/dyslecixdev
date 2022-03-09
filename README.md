@@ -12,6 +12,8 @@ Currently I am the father of two handsome boys, have a very loving wife, and cur
 <a href='https://github.com/christiandeandemesa/currency-calculator/blob/main/README.md'>CURRENCY CALCULATOR</a>
 ![currency-calculator](https://user-images.githubusercontent.com/85912934/156863812-a9a605fd-8070-4ecc-88b3-066474ca02e3.png)
 
+<a href='https://github.com/christiandeandemesa/pokedex/blob/main/README.md'>POKEDEX</a>
+![pokedex](https://user-images.githubusercontent.com/85912934/157383201-622250a5-3602-4dc6-97f1-bdc08b62f22a.png)
 
 ## Technologies
 <a href="https://img.shields.io/badge/Languages-HTML5-orange" target="blank"><img align="center" src="https://img.shields.io/badge/Languages-HTML5-orange" height="30" /></a><a href="https://img.shields.io/badge/-CSS3-blue" target="blank"><img align="center" src="https://img.shields.io/badge/-CSS3-blue" height="30" /></a><a href="https://img.shields.io/badge/-JavaScript 8/11-yellow" target="blank"><img align="center" src="https://img.shields.io/badge/-JavaScript 8/11-yellow" height="30" /></a><a href="https://img.shields.io/badge/-Python-darkblue" target="blank"><img align="center" src="https://img.shields.io/badge/-Python-darkblue" height="30" /></a><a href="https://img.shields.io/badge/-SQL-white" target="blank"><img align="center" src="https://img.shields.io/badge/-SQL-white" height="30" /></a><a href="https://img.shields.io/badge/-NoSQL-black" target="blank"><img align="center" src="https://img.shields.io/badge/-NoSQL-black" height="30" /></a><a href="https://img.shields.io/badge/-Java-red" target="blank"><img align="center" src="https://img.shields.io/badge/-Java-red" height="30" /></a>
