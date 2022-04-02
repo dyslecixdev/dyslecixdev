@@ -9,23 +9,45 @@ Currently I am the father of two handsome boys, have a very loving wife, and cur
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=christiandeandemesa&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ## Recent Projects
-<a href='https://github.com/christiandeandemesa/currency-calculator/blob/main/README.md'>CURRENCY CALCULATOR</a>
+<a href='https://github.com/christiandeandemesa/currency-calculator'>CURRENCY CALCULATOR</a>
 ![currency-calculator](https://user-images.githubusercontent.com/85912934/156863812-a9a605fd-8070-4ecc-88b3-066474ca02e3.png)
 
-<a href='https://github.com/christiandeandemesa/pokedex/blob/main/README.md'>POKEDEX</a>
+<a href='https://github.com/christiandeandemesa/pokedex'>POKEDEX</a>
 ![pokedex](https://user-images.githubusercontent.com/85912934/157383201-622250a5-3602-4dc6-97f1-bdc08b62f22a.png)
 
-<a href='https://github.com/christiandeandemesa/youtube-video-search/blob/main/README.md'>YOUTUBE VIDEO SEARCH</a>
-![youtube-video-search](https://user-images.githubusercontent.com/85912934/157805844-f5d42c9f-b66c-4aa5-8d66-c0204bdd2232.png)
+<a href='https://github.com/christiandeandemesa/youtube-video-search'>YOUTUBE VIDEO SEARCH</a>
+![youtube-video-search](https://user-images.githubusercontent.com/85912934/161367062-fc4f81c9-1520-4f20-9627-166a22dddc2e.png)
+
+<a href='https://github.com/christiandeandemesa/noteworthy'>NOTEWORTHY</a>
+![noteworthy](https://user-images.githubusercontent.com/85912934/161367064-3289c047-a8f7-444d-ae87-562f7842f679.png)
 
 ## Technologies
-<a href="https://img.shields.io/badge/Languages-HTML5-orange" target="blank"><img align="center" src="https://img.shields.io/badge/Languages-HTML5-orange" height="30" /></a><a href="https://img.shields.io/badge/-CSS3-blue" target="blank"><img align="center" src="https://img.shields.io/badge/-CSS3-blue" height="30" /></a><a href="https://img.shields.io/badge/-JavaScript 8/11-yellow" target="blank"><img align="center" src="https://img.shields.io/badge/-JavaScript 8/11-yellow" height="30" /></a><a href="https://img.shields.io/badge/-Python-darkblue" target="blank"><img align="center" src="https://img.shields.io/badge/-Python-darkblue" height="30" /></a><a href="https://img.shields.io/badge/-SQL-white" target="blank"><img align="center" src="https://img.shields.io/badge/-SQL-white" height="30" /></a><a href="https://img.shields.io/badge/-NoSQL-black" target="blank"><img align="center" src="https://img.shields.io/badge/-NoSQL-black" height="30" /></a><a href="https://img.shields.io/badge/-Java-red" target="blank"><img align="center" src="https://img.shields.io/badge/-Java-red" height="30" /></a>
 
-<a href="https://img.shields.io/badge/Frameworks and Libraries-Bootstrap-Purple" target="blank"><img align="center" src="https://img.shields.io/badge/Frameworks and Libraries-Bootstrap-purple" height="30" /></a><a href="https://img.shields.io/badge/-Flask-white" target="blank"><img align="center" src="https://img.shields.io/badge/-Flask-white" height="30" /></a><a href="https://img.shields.io/badge/-AJAX-orange" target="blank"><img align="center" src="https://img.shields.io/badge/-AJAX-orange" height="30" /></a><a href="https://img.shields.io/badge/-Express-darkblue" target="blank"><img align="center" src="https://img.shields.io/badge/-Express-darkblue" height="30" /></a><a href="https://img.shields.io/badge/-React-blue" target="blank"><img align="center" src="https://img.shields.io/badge/-React-blue" height="30" /></a><a href="https://img.shields.io/badge/-Node.js-darkgreen" target="blank"><img align="center" src="https://img.shields.io/badge/-Node.js-darkgreen" height="30" /></a><a href="https://img.shields.io/badge/-Spring Boot-green" target="blank"><img align="center" src="https://img.shields.io/badge/-Spring Boot-green" height="30" /></a>
+<a href="https://img.shields.io/badge/Languages-HTML5-orange" target="blank"><img align="center" src="https://img.shields.io/badge/Languages-HTML5-orange" height="30" /></a>
+<a href="https://img.shields.io/badge/-CSS3-blue" target="blank"><img align="center" src="https://img.shields.io/badge/-CSS3-blue" height="30" /></a>
+<a href="https://img.shields.io/badge/-JavaScript 8/11-yellow" target="blank"><img align="center" src="https://img.shields.io/badge/-JavaScript 8/11-yellow" height="30" /></a>
+<a href="https://img.shields.io/badge/-Python-darkblue" target="blank"><img align="center" src="https://img.shields.io/badge/-Python-darkblue" height="30" /></a>
+<a href="https://img.shields.io/badge/-SQL-white" target="blank"><img align="center" src="https://img.shields.io/badge/-SQL-white" height="30" /></a>
+<a href="https://img.shields.io/badge/-NoSQL-black" target="blank"><img align="center" src="https://img.shields.io/badge/-NoSQL-black" height="30" /></a>
+<a href="https://img.shields.io/badge/-Java-red" target="blank"><img align="center" src="https://img.shields.io/badge/-Java-red" height="30" /></a>
 
-<a href="https://img.shields.io/badge/Databases-MySQL-darkblue" target="blank"><img align="center" src="https://img.shields.io/badge/Databases-MySQL-darkblue" height="30" /></a><a href="https://img.shields.io/badge/-MongoDB-darkgreen" target="blank"><img align="center" src="https://img.shields.io/badge/-MongoDB-darkgreen" height="30" /></a>
+<a href="https://img.shields.io/badge/Frameworks and Libraries-Bootstrap-Purple" target="blank"><img align="center" src="https://img.shields.io/badge/Frameworks and Libraries-Bootstrap-purple" height="30" /></a>
+<a href="https://img.shields.io/badge/-Flask-white" target="blank"><img align="center" src="https://img.shields.io/badge/-Flask-white" height="30" /></a>
+<a href="https://img.shields.io/badge/-AJAX-orange" target="blank"><img align="center" src="https://img.shields.io/badge/-AJAX-orange" height="30" /></a>
+<a href="https://img.shields.io/badge/-Express-darkblue" target="blank"><img align="center" src="https://img.shields.io/badge/-Express-darkblue" height="30" /></a>
+<a href="https://img.shields.io/badge/-React-blue" target="blank"><img align="center" src="https://img.shields.io/badge/-React-blue" height="30" /></a>
+<a href="https://img.shields.io/badge/-Node.js-darkgreen" target="blank"><img align="center" src="https://img.shields.io/badge/-Node.js-darkgreen" height="30" /></a>
+<a href="https://img.shields.io/badge/-React Icons-pink" target="blank"><img align="center" src="https://img.shields.io/badge/-React Icons-pink" height="30" /></a>
+<a href="https://img.shields.io/badge/-Redux-purple" target="blank"><img align="center" src="https://img.shields.io/badge/-Redux-purple" height="30" /></a>
+<a href="https://img.shields.io/badge/-Spring Boot-green" target="blank"><img align="center" src="https://img.shields.io/badge/-Spring Boot-green" height="30" /></a>
 
-<a href="https://img.shields.io/badge/Other-Git-red" target="blank"><img align="center" src="https://img.shields.io/badge/Other-Git-red" height="30" /></a><a href="https://img.shields.io/badge/-Postman-orange" target="blank"><img align="center" src="https://img.shields.io/badge/-Postman-orange" height="30" /></a><a href="https://img.shields.io/badge/-SpringToolSuite4-green" target="blank"><img align="center" src="https://img.shields.io/badge/-SpringToolSuite4-green" height="30" /></a>
+<a href="https://img.shields.io/badge/Databases-MySQL-darkblue" target="blank"><img align="center" src="https://img.shields.io/badge/Databases-MySQL-darkblue" height="30" /></a>
+<a href="https://img.shields.io/badge/-MongoDB-darkgreen" target="blank"><img align="center" src="https://img.shields.io/badge/-MongoDB-darkgreen" height="30" /></a>
+
+<a href="https://img.shields.io/badge/Other-Git-red" target="blank"><img align="center" src="https://img.shields.io/badge/Other-Git-red" height="30" /></a>
+<a href="https://img.shields.io/badge/-Postman-orange" target="blank"><img align="center" src="https://img.shields.io/badge/-Postman-orange" height="30" /></a>
+<a href="https://img.shields.io/badge/-SpringToolSuite4-green" target="blank"><img align="center" src="https://img.shields.io/badge/-SpringToolSuite4-green" height="30" /></a>
+<a href="https://img.shields.io/badge/-Sass-pink" target="blank"><img align="center" src="https://img.shields.io/badge/-Sass-pink" height="30" /></a>
 
 ## Contact Me
 <a href="https://github.com/christiandeandemesa" target="blank"><img align="center" src="https://img.shields.io/github/followers/christiandeandemesa?style=social" height="30" /></a><a href="https://www.linkedin.com/in/christian-demesa-learning-new-things/" target="blank"><img align="center" src="https://img.shields.io/badge/-Linkedin-darkblue" height="30" /></a><a href="https://christiandeandemesa.github.io/" target="blank"><img align="center" src="https://img.shields.io/badge/-Portfolio-yellow" height="30" /></a><a href="https://discord.com/channels/@me" target="blank"><img align="center" src="https://img.shields.io/badge/-Discord-blue" height="30" /></a>
