@@ -2,6 +2,9 @@
 
 ### My name is Christian Dean Demesa, and I'm looking toward becoming a full-stack or front-end developer.
 <a href="https://media4.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif?cid=ecf05e478nfj4pbbkeapo5cuahzcgf9apq4eo0pov8ojncil&rid=giphy.gif&ct=g" target="blank"><img align="center" src="https://media4.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif?cid=ecf05e478nfj4pbbkeapo5cuahzcgf9apq4eo0pov8ojncil&rid=giphy.gif&ct=g" height="300" /></a>
+<br/>
+<br/>
+Check out my [Portfolio](https://christian-demesa-portfolio.netlify.app/).
 
 ## About Me
 Currently I am the father of two handsome boys, have a very loving wife, and currently live in Covina, CA. I have a bachelor's degree in philosophy, and a certificate from Coding Dojo in Python, MERN, and Java full-stacks. My hobbies include chess, hiking, learning foreign languages, origami, and playing piano.
@@ -20,6 +23,10 @@ Currently I am the father of two handsome boys, have a very loving wife, and cur
 
 <a href='https://github.com/christiandeandemesa/noteworthy'>NOTEWORTHY</a>
 ![noteworthy](https://user-images.githubusercontent.com/85912934/161367064-3289c047-a8f7-444d-ae87-562f7842f679.png)
+
+<a href='https://github.com/christiandeandemesa/react-portfolio'>PORTFOLIO</a>
+![react-portfolio](https://user-images.githubusercontent.com/85912934/165189645-86a9d85e-4b0a-4b20-8fef-09384f20dbac.png)
+
 
 ## Technologies
 
