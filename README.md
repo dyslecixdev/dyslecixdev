@@ -33,28 +33,42 @@ Currently I am the father of two handsome boys, have a very loving wife, and cur
 <a href="https://img.shields.io/badge/Languages-HTML5-orange" target="blank"><img align="center" src="https://img.shields.io/badge/Languages-HTML5-orange" height="30" /></a>
 <a href="https://img.shields.io/badge/-CSS3-blue" target="blank"><img align="center" src="https://img.shields.io/badge/-CSS3-blue" height="30" /></a>
 <a href="https://img.shields.io/badge/-JavaScript 8/11-yellow" target="blank"><img align="center" src="https://img.shields.io/badge/-JavaScript 8/11-yellow" height="30" /></a>
-<a href="https://img.shields.io/badge/-Python-darkblue" target="blank"><img align="center" src="https://img.shields.io/badge/-Python-darkblue" height="30" /></a>
-<a href="https://img.shields.io/badge/-SQL-white" target="blank"><img align="center" src="https://img.shields.io/badge/-SQL-white" height="30" /></a>
 <a href="https://img.shields.io/badge/-NoSQL-black" target="blank"><img align="center" src="https://img.shields.io/badge/-NoSQL-black" height="30" /></a>
+<a href="https://img.shields.io/badge/-SQL-white" target="blank"><img align="center" src="https://img.shields.io/badge/-SQL-white" height="30" /></a>
+<a href="https://img.shields.io/badge/-Python-darkblue" target="blank"><img align="center" src="https://img.shields.io/badge/-Python-darkblue" height="30" /></a>
 <a href="https://img.shields.io/badge/-Java-red" target="blank"><img align="center" src="https://img.shields.io/badge/-Java-red" height="30" /></a>
 
 <a href="https://img.shields.io/badge/Frameworks and Libraries-Bootstrap-Purple" target="blank"><img align="center" src="https://img.shields.io/badge/Frameworks and Libraries-Bootstrap-purple" height="30" /></a>
-<a href="https://img.shields.io/badge/-Flask-white" target="blank"><img align="center" src="https://img.shields.io/badge/-Flask-white" height="30" /></a>
-<a href="https://img.shields.io/badge/-AJAX-orange" target="blank"><img align="center" src="https://img.shields.io/badge/-AJAX-orange" height="30" /></a>
+<a href="https://img.shields.io/badge/-jQuery-blue" target="blank"><img align="center" src="https://img.shields.io/badge/-jQuery-blue" height="30" /></a>
 <a href="https://img.shields.io/badge/-Express-darkblue" target="blank"><img align="center" src="https://img.shields.io/badge/-Express-darkblue" height="30" /></a>
 <a href="https://img.shields.io/badge/-React-blue" target="blank"><img align="center" src="https://img.shields.io/badge/-React-blue" height="30" /></a>
 <a href="https://img.shields.io/badge/-Node.js-darkgreen" target="blank"><img align="center" src="https://img.shields.io/badge/-Node.js-darkgreen" height="30" /></a>
-<a href="https://img.shields.io/badge/-React Icons-pink" target="blank"><img align="center" src="https://img.shields.io/badge/-React Icons-pink" height="30" /></a>
 <a href="https://img.shields.io/badge/-Redux-purple" target="blank"><img align="center" src="https://img.shields.io/badge/-Redux-purple" height="30" /></a>
+<a href="https://img.shields.io/badge/-Axios-pink" target="blank"><img align="center" src="https://img.shields.io/badge/-Axios-pink" height="30" /></a>
+<a href="https://img.shields.io/badge/-Bcryptjs-green" target="blank"><img align="center" src="https://img.shields.io/badge/-Bcryptjs-green" height="30" /></a>
+<a href="https://img.shields.io/badge/-Dotenv-yellow" target="blank"><img align="center" src="https://img.shields.io/badge/-Dotenv-yellow" height="30" /></a>
+<a href="https://img.shields.io/badge/-JWT-purple" target="blank"><img align="center" src="https://img.shields.io/badge/-JWT-purple" height="30" /></a>
+<a href="https://img.shields.io/badge/-Swiper-darkblue" target="blank"><img align="center" src="https://img.shields.io/badge/-Swiper-darkblue" height="30" /></a>
+<a href="https://img.shields.io/badge/-React Router Dom-blue" target="blank"><img align="center" src="https://img.shields.io/badge/-React Router Dom-blue" height="30" /></a>
+<a href="https://img.shields.io/badge/-React Icons-pink" target="blank"><img align="center" src="https://img.shields.io/badge/-React Icons-pink" height="30" /></a>
+<a href="https://img.shields.io/badge/-React Toastify-brightgreen" target="blank"><img align="center" src="https://img.shields.io/badge/-React Toastify-brightgreen" height="30" /></a>
+<a href="https://img.shields.io/badge/-React Three Fiber-black" target="blank"><img align="center" src="https://img.shields.io/badge/-React Three Fiber-black" height="30" /></a>
+<a href="https://img.shields.io/badge/-React Leaflet-darkgreen" target="blank"><img align="center" src="https://img.shields.io/badge/-React Leaflet-darkgreen" height="30" /></a>
+<a href="https://img.shields.io/badge/-React Spring-orange" target="blank"><img align="center" src="https://img.shields.io/badge/-React Spring-orange" height="30" /></a>
+<a href="https://img.shields.io/badge/-Loaders.css-darkorange" target="blank"><img align="center" src="https://img.shields.io/badge/-Loaders.css-darkorange" height="30" /></a>
+<a href="https://img.shields.io/badge/-Flask-white" target="blank"><img align="center" src="https://img.shields.io/badge/-Flask-white" height="30" /></a>
 <a href="https://img.shields.io/badge/-Spring Boot-green" target="blank"><img align="center" src="https://img.shields.io/badge/-Spring Boot-green" height="30" /></a>
 
-<a href="https://img.shields.io/badge/Databases-MySQL-darkblue" target="blank"><img align="center" src="https://img.shields.io/badge/Databases-MySQL-darkblue" height="30" /></a>
-<a href="https://img.shields.io/badge/-MongoDB-darkgreen" target="blank"><img align="center" src="https://img.shields.io/badge/-MongoDB-darkgreen" height="30" /></a>
+<a href="https://img.shields.io/badge/Databases-MongoDB-darkgreen" target="blank"><img align="center" src="https://img.shields.io/badge/Databases-MongoDB-darkgreen" height="30" /></a>
+<a href="https://img.shields.io/badge/-MySQL-darkblue" target="blank"><img align="center" src="https://img.shields.io/badge/-MySQL-darkblue" height="30" /></a>
 
 <a href="https://img.shields.io/badge/Other-Git-red" target="blank"><img align="center" src="https://img.shields.io/badge/Other-Git-red" height="30" /></a>
-<a href="https://img.shields.io/badge/-Postman-orange" target="blank"><img align="center" src="https://img.shields.io/badge/-Postman-orange" height="30" /></a>
-<a href="https://img.shields.io/badge/-SpringToolSuite4-green" target="blank"><img align="center" src="https://img.shields.io/badge/-SpringToolSuite4-green" height="30" /></a>
 <a href="https://img.shields.io/badge/-Sass-pink" target="blank"><img align="center" src="https://img.shields.io/badge/-Sass-pink" height="30" /></a>
+<a href="https://img.shields.io/badge/-Typescript-blue" target="blank"><img align="center" src="https://img.shields.io/badge/-Typescript-blue" height="30" /></a>
+<a href="https://img.shields.io/badge/-Postman-orange" target="blank"><img align="center" src="https://img.shields.io/badge/-Postman-orange" height="30" /></a>
+<a href="https://img.shields.io/badge/-MongoDBCompass-darkgreen" target="blank"><img align="center" src="https://img.shields.io/badge/-MongoDBCompass-darkgreen" height="30" /></a>
+<a href="https://img.shields.io/badge/-MySQL Workbench-darkblue" target="blank"><img align="center" src="https://img.shields.io/badge/-MySQL Workbench-darkblue" height="30" /></a>
+<a href="https://img.shields.io/badge/-SpringToolSuite4-green" target="blank"><img align="center" src="https://img.shields.io/badge/-SpringToolSuite4-green" height="30" /></a>
 
 ## Contact Me
-<a href="https://github.com/christiandeandemesa" target="blank"><img align="center" src="https://img.shields.io/github/followers/christiandeandemesa?style=social" height="30" /></a><a href="https://www.linkedin.com/in/christian-demesa-learning-new-things/" target="blank"><img align="center" src="https://img.shields.io/badge/-Linkedin-darkblue" height="30" /></a><a href="https://christiandeandemesa.github.io/" target="blank"><img align="center" src="https://img.shields.io/badge/-Portfolio-yellow" height="30" /></a><a href="https://discord.com/channels/@me" target="blank"><img align="center" src="https://img.shields.io/badge/-Discord-blue" height="30" /></a>
+<a href="https://github.com/christiandeandemesa" target="blank"><img align="center" src="https://img.shields.io/github/followers/christiandeandemesa?style=social" height="30" /></a><a href="https://www.linkedin.com/in/christian-demesa-learning-new-things/" target="blank"><img align="center" src="https://img.shields.io/badge/-Linkedin-darkblue" height="30" /></a><a href="https://christian-demesa-portfolio.netlify.app/" target="blank"><img align="center" src="https://img.shields.io/badge/-Portfolio-yellow" height="30" /></a>
