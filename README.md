@@ -18,6 +18,9 @@ Currently I am the father of two handsome boys, have a very loving wife, and cur
 <a href='https://github.com/christiandeandemesa/MERN-blog'>MERN BLOG</a>
 ![mern-blog](https://user-images.githubusercontent.com/85912934/197316083-8f9376a2-4435-4906-a296-70793d6ba220.png)
 
+<a href='https://github.com/christiandeandemesa/MERN-ecommerce'>MERN E-COMMERCE</a>
+![mern-ecommerce](https://user-images.githubusercontent.com/85912934/205514208-da0bced5-fc0f-47b0-b849-b3309844d73b.png)
+
 ## Technologies
 
 <a href="https://img.shields.io/badge/Languages-HTML5-orange" target="blank"><img align="center" src="https://img.shields.io/badge/Languages-HTML5-orange" height="30" /></a>
@@ -49,6 +52,8 @@ Currently I am the father of two handsome boys, have a very loving wife, and cur
 <a href="https://img.shields.io/badge/-Multer-black" target="blank"><img align="center" src="https://img.shields.io/badge/-Multer-black" height="30" /></a>
 <a href="https://img.shields.io/badge/-Material UI-blue" target="blank"><img align="center" src="https://img.shields.io/badge/-Material UI-blue" height="30" /></a>
 <a href="https://img.shields.io/badge/-Emotion-pink" target="blank"><img align="center" src="https://img.shields.io/badge/-Emotion-pink" height="30" /></a>
+
+<a href="https://img.shields.io/badge/APIs-Stripe-darkblue" target="blank"><img align="center" src="https://img.shields.io/badge/APIs-Stripe-darkblue" height="30" /></a>
 
 <a href="https://img.shields.io/badge/Databases-MongoDB-darkgreen" target="blank"><img align="center" src="https://img.shields.io/badge/Databases-MongoDB-darkgreen" height="30" /></a>
 <a href="https://img.shields.io/badge/-MySQL-darkblue" target="blank"><img align="center" src="https://img.shields.io/badge/-MySQL-darkblue" height="30" /></a>
