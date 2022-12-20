@@ -21,6 +21,9 @@ Currently I am the father of two handsome boys, have a very loving wife, and cur
 <a href='https://github.com/christiandeandemesa/MERN-ecommerce'>MERN E-COMMERCE</a>
 ![mern-ecommerce](https://user-images.githubusercontent.com/85912934/205514208-da0bced5-fc0f-47b0-b849-b3309844d73b.png)
 
+<a href='https://github.com/christiandeandemesa/react-admin'>REACT ADMIN DASHBOARD</a>
+![react-admin](https://user-images.githubusercontent.com/85912934/208588793-5bdc25cc-02cb-4dc0-8e11-4b9fced6c2e7.png)
+
 ## Technologies
 
 <a href="https://img.shields.io/badge/Languages-HTML5-orange" target="blank"><img align="center" src="https://img.shields.io/badge/Languages-HTML5-orange" height="30" /></a>
@@ -52,6 +55,12 @@ Currently I am the father of two handsome boys, have a very loving wife, and cur
 <a href="https://img.shields.io/badge/-Multer-black" target="blank"><img align="center" src="https://img.shields.io/badge/-Multer-black" height="30" /></a>
 <a href="https://img.shields.io/badge/-Material UI-blue" target="blank"><img align="center" src="https://img.shields.io/badge/-Material UI-blue" height="30" /></a>
 <a href="https://img.shields.io/badge/-Emotion-pink" target="blank"><img align="center" src="https://img.shields.io/badge/-Emotion-pink" height="30" /></a>
+<a href="https://img.shields.io/badge/-Dnd Kit-black" target="blank"><img align="center" src="https://img.shields.io/badge/-Dnd Kit-black" height="30" /></a>
+<a href="https://img.shields.io/badge/-FullCalendar-blue" target="blank"><img align="center" src="https://img.shields.io/badge/-FullCalendar-blue" height="30" /></a>
+<a href="https://img.shields.io/badge/-Nivo-red" target="blank"><img align="center" src="https://img.shields.io/badge/-Nivo-red" height="30" /></a>
+<a href="https://img.shields.io/badge/-Recharts-brightgreen" target="blank"><img align="center" src="https://img.shields.io/badge/-Recharts-brightgreen" height="30" /></a>
+<a href="https://img.shields.io/badge/-Formik-darkblue" target="blank"><img align="center" src="https://img.shields.io/badge/-Formik-darkblue" height="30" /></a>
+<a href="https://img.shields.io/badge/-Yup-black" target="blank"><img align="center" src="https://img.shields.io/badge/-Yup-black" height="30" /></a>
 
 <a href="https://img.shields.io/badge/APIs-Stripe-darkblue" target="blank"><img align="center" src="https://img.shields.io/badge/APIs-Stripe-darkblue" height="30" /></a>
 
