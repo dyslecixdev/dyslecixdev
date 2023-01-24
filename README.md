@@ -64,9 +64,11 @@ Currently I am the father of two handsome boys, have a very loving wife, and cur
 <a href="https://img.shields.io/badge/-Recharts-brightgreen" target="blank"><img align="center" src="https://img.shields.io/badge/-Recharts-brightgreen" height="30" /></a>
 <a href="https://img.shields.io/badge/-Formik-darkblue" target="blank"><img align="center" src="https://img.shields.io/badge/-Formik-darkblue" height="30" /></a>
 <a href="https://img.shields.io/badge/-Yup-black" target="blank"><img align="center" src="https://img.shields.io/badge/-Yup-black" height="30" /></a>
+<a href="https://img.shields.io/badge/-TailwindCSS-blue" target="blank"><img align="center" src="https://img.shields.io/badge/-TailwindCSS-blue" height="30" /></a>
 <a href="https://img.shields.io/badge/-Socket.io-white" target="blank"><img align="center" src="https://img.shields.io/badge/-Socket.io-white" height="30" /></a>
 
 <a href="https://img.shields.io/badge/APIs-Stripe-darkblue" target="blank"><img align="center" src="https://img.shields.io/badge/APIs-Stripe-darkblue" height="30" /></a>
+<a href="https://img.shields.io/badge/-Multiavatar-yellow" target="blank"><img align="center" src="https://img.shields.io/badge/-Multiavatar-yellow" height="30" /></a>
 
 <a href="https://img.shields.io/badge/Databases-MongoDB-darkgreen" target="blank"><img align="center" src="https://img.shields.io/badge/Databases-MongoDB-darkgreen" height="30" /></a>
 <a href="https://img.shields.io/badge/-MySQL-darkblue" target="blank"><img align="center" src="https://img.shields.io/badge/-MySQL-darkblue" height="30" /></a>
