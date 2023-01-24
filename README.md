@@ -24,6 +24,9 @@ Currently I am the father of two handsome boys, have a very loving wife, and cur
 <a href='https://github.com/christiandeandemesa/react-admin'>REACT ADMIN DASHBOARD</a>
 ![react-admin](https://user-images.githubusercontent.com/85912934/208588793-5bdc25cc-02cb-4dc0-8e11-4b9fced6c2e7.png)
 
+<a href='https://github.com/christiandeandemesa/MERN-chat'>MERN CHAT</a>
+![mern-chat](https://user-images.githubusercontent.com/85912934/214218680-2ed283e1-9139-4fb8-88c9-f28a9f5a0aaf.png)
+
 ## Technologies
 
 <a href="https://img.shields.io/badge/Languages-HTML5-orange" target="blank"><img align="center" src="https://img.shields.io/badge/Languages-HTML5-orange" height="30" /></a>
@@ -61,6 +64,7 @@ Currently I am the father of two handsome boys, have a very loving wife, and cur
 <a href="https://img.shields.io/badge/-Recharts-brightgreen" target="blank"><img align="center" src="https://img.shields.io/badge/-Recharts-brightgreen" height="30" /></a>
 <a href="https://img.shields.io/badge/-Formik-darkblue" target="blank"><img align="center" src="https://img.shields.io/badge/-Formik-darkblue" height="30" /></a>
 <a href="https://img.shields.io/badge/-Yup-black" target="blank"><img align="center" src="https://img.shields.io/badge/-Yup-black" height="30" /></a>
+<a href="https://img.shields.io/badge/-Socket.io-white" target="blank"><img align="center" src="https://img.shields.io/badge/-Socket.io-white" height="30" /></a>
 
 <a href="https://img.shields.io/badge/APIs-Stripe-darkblue" target="blank"><img align="center" src="https://img.shields.io/badge/APIs-Stripe-darkblue" height="30" /></a>
 
