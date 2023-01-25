@@ -12,9 +12,6 @@ Currently I am the father of two handsome boys, have a very loving wife, and cur
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=christiandeandemesa&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ## Recent Projects
-<a href='https://github.com/christiandeandemesa/react-portfolio'>PORTFOLIO</a>
-![react-portfolio](https://user-images.githubusercontent.com/85912934/165189645-86a9d85e-4b0a-4b20-8fef-09384f20dbac.png)
-
 <a href='https://github.com/christiandeandemesa/MERN-blog'>MERN BLOG</a>
 ![mern-blog](https://user-images.githubusercontent.com/85912934/197316083-8f9376a2-4435-4906-a296-70793d6ba220.png)
 
@@ -24,8 +21,10 @@ Currently I am the father of two handsome boys, have a very loving wife, and cur
 <a href='https://github.com/christiandeandemesa/react-admin'>REACT ADMIN DASHBOARD</a>
 ![react-admin](https://user-images.githubusercontent.com/85912934/208588793-5bdc25cc-02cb-4dc0-8e11-4b9fced6c2e7.png)
 
+<a href='https://github.com/christiandeandemesa/react-portfolio'>REACT PORTFOLIO</a>
+
 <a href='https://github.com/christiandeandemesa/MERN-chat'>MERN CHAT</a>
-![mern-chat](https://user-images.githubusercontent.com/85912934/214218680-2ed283e1-9139-4fb8-88c9-f28a9f5a0aaf.png)
+![mern-chat-old](https://user-images.githubusercontent.com/85912934/214715211-c1bbaca9-d250-444c-b7f7-e1c8b0b646cd.png)
 
 ## Technologies
 
