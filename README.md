@@ -4,7 +4,7 @@
 <a href="https://media4.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif?cid=ecf05e478nfj4pbbkeapo5cuahzcgf9apq4eo0pov8ojncil&rid=giphy.gif&ct=g" target="blank"><img align="center" src="https://media4.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif?cid=ecf05e478nfj4pbbkeapo5cuahzcgf9apq4eo0pov8ojncil&rid=giphy.gif&ct=g" height="300" /></a>
 <br/>
 <br/>
-Check out my [Portfolio](https://christian-demesa-portfolio.netlify.app/).
+Check out my [Portfolio](https://christian-dean-demesa-portfolio.netlify.app/).
 
 ## About Me
 Currently I am the father of two handsome boys, have a very loving wife, and currently live in Covina, CA. I have a bachelor's degree in philosophy, and a certificate from Coding Dojo in Python, MERN, and Java full-stacks. My hobbies include chess, hiking, learning foreign languages, origami, and playing piano.
@@ -22,6 +22,7 @@ Currently I am the father of two handsome boys, have a very loving wife, and cur
 ![react-admin](https://user-images.githubusercontent.com/85912934/208588793-5bdc25cc-02cb-4dc0-8e11-4b9fced6c2e7.png)
 
 <a href='https://github.com/christiandeandemesa/react-portfolio'>REACT PORTFOLIO</a>
+![react-portfolio](https://user-images.githubusercontent.com/85912934/214974007-6aea7eca-c147-495b-b294-335d1e98af52.png)
 
 <a href='https://github.com/christiandeandemesa/MERN-chat'>MERN CHAT</a>
 ![mern-chat-old](https://user-images.githubusercontent.com/85912934/214715211-c1bbaca9-d250-444c-b7f7-e1c8b0b646cd.png)
@@ -65,6 +66,8 @@ Currently I am the father of two handsome boys, have a very loving wife, and cur
 <a href="https://img.shields.io/badge/-Yup-black" target="blank"><img align="center" src="https://img.shields.io/badge/-Yup-black" height="30" /></a>
 <a href="https://img.shields.io/badge/-TailwindCSS-blue" target="blank"><img align="center" src="https://img.shields.io/badge/-TailwindCSS-blue" height="30" /></a>
 <a href="https://img.shields.io/badge/-Socket.io-white" target="blank"><img align="center" src="https://img.shields.io/badge/-Socket.io-white" height="30" /></a>
+<a href="https://img.shields.io/badge/-Framer Motion-purple" target="blank"><img align="center" src="https://img.shields.io/badge/-Framer Motion-purple" height="30" /></a>
+<a href="https://img.shields.io/badge/-tsParticles-white" target="blank"><img align="center" src="https://img.shields.io/badge/-tsParticles-white" height="30" /></a>
 
 <a href="https://img.shields.io/badge/APIs-Stripe-darkblue" target="blank"><img align="center" src="https://img.shields.io/badge/APIs-Stripe-darkblue" height="30" /></a>
 <a href="https://img.shields.io/badge/-Multiavatar-yellow" target="blank"><img align="center" src="https://img.shields.io/badge/-Multiavatar-yellow" height="30" /></a>
@@ -76,8 +79,13 @@ Currently I am the father of two handsome boys, have a very loving wife, and cur
 <a href="https://img.shields.io/badge/-Sass-pink" target="blank"><img align="center" src="https://img.shields.io/badge/-Sass-pink" height="30" /></a>
 <a href="https://img.shields.io/badge/-Typescript-blue" target="blank"><img align="center" src="https://img.shields.io/badge/-Typescript-blue" height="30" /></a>
 <a href="https://img.shields.io/badge/-Postman-orange" target="blank"><img align="center" src="https://img.shields.io/badge/-Postman-orange" height="30" /></a>
+<a href="https://img.shields.io/badge/-EmailJS-yellow" target="blank"><img align="center" src="https://img.shields.io/badge/-EmailJS-yellow" height="30" /></a>
+<a href="https://img.shields.io/badge/-Netlify-brightgreen" target="blank"><img align="center" src="https://img.shields.io/badge/-Netlify-brightgreen" height="30" /></a>
+<a href="https://img.shields.io/badge/-Render-blue" target="blank"><img align="center" src="https://img.shields.io/badge/-Render-blue" height="30" /></a>
 <a href="https://img.shields.io/badge/-MongoDBCompass-darkgreen" target="blank"><img align="center" src="https://img.shields.io/badge/-MongoDBCompass-darkgreen" height="30" /></a>
 <a href="https://img.shields.io/badge/-MySQL Workbench-darkblue" target="blank"><img align="center" src="https://img.shields.io/badge/-MySQL Workbench-darkblue" height="30" /></a>
 
 ## Contact Me
-<a href="https://github.com/christiandeandemesa" target="blank"><img align="center" src="https://img.shields.io/github/followers/christiandeandemesa?style=social" height="30" /></a><a href="https://www.linkedin.com/in/christian-demesa-learning-new-things/" target="blank"><img align="center" src="https://img.shields.io/badge/-Linkedin-darkblue" height="30" /></a><a href="https://christian-demesa-portfolio.netlify.app/" target="blank"><img align="center" src="https://img.shields.io/badge/-Portfolio-yellow" height="30" /></a>
+<a href="https://github.com/christiandeandemesa" target="blank"><img align="center" src="https://img.shields.io/github/followers/christiandeandemesa?style=social" height="30" /></a><a href="https://www.linkedin.com/in/christian-demesa-learning-new-things/" target="blank"><img align="center" src="https://img.shields.io/badge/-Linkedin-darkblue" height="30" /></a>
+<a href="https://www.instagram.com/dyslecix96/" target="blank"><img align="center" src="https://img.shields.io/badge/-Instagram-pink" height="30" /></a>
+<a href="https://christian-dean-demesa-portfolio.netlify.app/" target="blank"><img align="center" src="https://img.shields.io/badge/-Portfolio-yellow" height="30" /></a>
