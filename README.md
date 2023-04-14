@@ -96,3 +96,6 @@ Currently I am the father of two handsome boys, have a very loving wife, and cur
 <a href="https://github.com/christiandeandemesa" target="blank"><img align="center" src="https://img.shields.io/github/followers/christiandeandemesa?style=social" height="30" /></a><a href="https://www.linkedin.com/in/christian-demesa-learning-new-things/" target="blank"><img align="center" src="https://img.shields.io/badge/-Linkedin-darkblue" height="30" /></a>
 <a href="https://www.instagram.com/dyslecix96/" target="blank"><img align="center" src="https://img.shields.io/badge/-Instagram-pink" height="30" /></a>
 <a href="https://christian-dean-demesa-portfolio.netlify.app/" target="blank"><img align="center" src="https://img.shields.io/badge/-Portfolio-yellow" height="30" /></a>
+<a href="https://logiclyceum.com/" target="blank"><img align="center" src="https://img.shields.io/badge/-Blog-darkgreen" height="30" /></a>
+
+
