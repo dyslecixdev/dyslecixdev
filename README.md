@@ -1,15 +1,15 @@
 ## Welcome to my Profile <a href="https://camo.githubusercontent.com/d3359cb00ab0b5ed8f2e1fe3fceb4fbaf3b614340f8c0db99c17b9f50b351770/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" target="blank"><img align="center" src="https://camo.githubusercontent.com/d3359cb00ab0b5ed8f2e1fe3fceb4fbaf3b614340f8c0db99c17b9f50b351770/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" height="30" /></a>
 
-### My name is Christian Dean Demesa, and I'm looking toward becoming a full-stack or front-end developer.
+### My name is Christian Dean Demesa, and I'm a full-stack React developer.
+Check out my [Portfolio](https://christian-dean-demesa-portfolio.netlify.app/), [Blog](https://logiclyceum.com/), [LinkedIn](https://www.linkedin.com/in/christian-demesa-learning-new-things/), [Twitter](https://twitter.com/DyslecixDev), and [Instagram](https://www.instagram.com/dyslecixdev/).
+<br/>
 <a href="https://media4.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif?cid=ecf05e478nfj4pbbkeapo5cuahzcgf9apq4eo0pov8ojncil&rid=giphy.gif&ct=g" target="blank"><img align="center" src="https://media4.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif?cid=ecf05e478nfj4pbbkeapo5cuahzcgf9apq4eo0pov8ojncil&rid=giphy.gif&ct=g" height="300" /></a>
-<br/>
-<br/>
-Check out my [Portfolio](https://christian-dean-demesa-portfolio.netlify.app/).
 
 ## About Me
-Currently I am the father of two handsome boys, have a very loving wife, and currently live in Covina, CA. I have a bachelor's degree in philosophy, and a certificate from Coding Dojo in Python, MERN, and Java full-stacks. My hobbies include chess, hiking, learning foreign languages, origami, and playing piano.
+Currently I am the father of two handsome boys, have a very loving wife, and currently live in Covina, CA. I have a bachelor's degree in philosophy, and three certificates from Coding Dojo in the Python, MERN, and Java full-stacks. My hobbies include playing piano, hiking, chess, and learning languages (Spanish and C#).
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=christiandeandemesa&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/64a71bdb1dadb37b72b45a1a?variant=light" alt="roadmap.sh"/></a>
 
 ## Recent Projects
 <a href='https://github.com/christiandeandemesa/MERN-blog'>MERN BLOG</a>
@@ -93,9 +93,11 @@ Currently I am the father of two handsome boys, have a very loving wife, and cur
 <a href="https://img.shields.io/badge/-Google Fonts-white" target="blank"><img align="center" src="https://img.shields.io/badge/-Google Fonts-white" height="30" /></a>
 
 ## Contact Me
-<a href="https://github.com/christiandeandemesa" target="blank"><img align="center" src="https://img.shields.io/github/followers/christiandeandemesa?style=social" height="30" /></a><a href="https://www.linkedin.com/in/christian-demesa-learning-new-things/" target="blank"><img align="center" src="https://img.shields.io/badge/-Linkedin-darkblue" height="30" /></a>
-<a href="https://www.instagram.com/dyslecix96/" target="blank"><img align="center" src="https://img.shields.io/badge/-Instagram-pink" height="30" /></a>
+<a href="https://github.com/christiandeandemesa" target="blank"><img align="center" src="https://img.shields.io/github/followers/christiandeandemesa?style=social" height="30" /></a>
 <a href="https://christian-dean-demesa-portfolio.netlify.app/" target="blank"><img align="center" src="https://img.shields.io/badge/-Portfolio-yellow" height="30" /></a>
 <a href="https://logiclyceum.com/" target="blank"><img align="center" src="https://img.shields.io/badge/-Blog-darkgreen" height="30" /></a>
+<a href="https://www.linkedin.com/in/christian-demesa-learning-new-things/" target="blank"><img align="center" src="https://img.shields.io/badge/-Linkedin-darkblue" height="30" /></a>
+<a href="https://twitter.com/DyslecixDev" target="blank"><img align="center" src="https://img.shields.io/badge/-Twitter-blue" height="30" /></a>
+<a href="https://www.instagram.com/dyslecixdev/" target="blank"><img align="center" src="https://img.shields.io/badge/-Instagram-pink" height="30" /></a>
 
 
