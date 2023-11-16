@@ -6,7 +6,7 @@ Check out my [Portfolio](https://christian-dean-demesa-portfolio.netlify.app/), 
 <a href="https://media4.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif?cid=ecf05e478nfj4pbbkeapo5cuahzcgf9apq4eo0pov8ojncil&rid=giphy.gif&ct=g" target="blank"><img align="center" src="https://media4.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif?cid=ecf05e478nfj4pbbkeapo5cuahzcgf9apq4eo0pov8ojncil&rid=giphy.gif&ct=g" height="300" /></a>
 
 ## About Me
-Hello, I'm a full-stack web developer at W Brand Studio with a B.A. in Philosophy from the University of California, Irvine and a Software Development certificate from Coding Dojo. Part-time pianist, chess player, hiker, philosopher and a full-time father.
+Hello, I'm a full-stack web developer at W Brand Studio with a B.A. in Philosophy from the University of California, Irvine and a Software Development certificate from Coding Dojo. Part-time Philosopher, Pianist, Chess Player, and Hiker. Full-time Software Engineer and Father.
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dyslecixdev&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dyslecixdev&layout=compact&repo=github-readme-stats" />
