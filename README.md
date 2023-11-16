@@ -19,7 +19,6 @@ Hello, I'm a full-stack web developer at W Brand Studio with a B.A. in Philosoph
 <a href="https://img.shields.io/badge/-TypeScript-0079CA" target="blank"><img align="center" src="https://img.shields.io/badge/-TypeScript-0079CA" height="30" /></a>
 <a href="https://img.shields.io/badge/-Python-FFC300" target="blank"><img align="center" src="https://img.shields.io/badge/-Python-FFC300" height="30" /></a>
 <a href="https://img.shields.io/badge/-Java-EC2A2D" target="blank"><img align="center" src="https://img.shields.io/badge/-Java-EC2A2D" height="30" /></a>
-<a href="https://img.shields.io/badge/-NoSQL-037805" target="blank"><img align="center" src="https://img.shields.io/badge/-NoSQL-037805" height="30" /></a>
 <a href="https://img.shields.io/badge/-SQL-1E75BA" target="blank"><img align="center" src="https://img.shields.io/badge/-SQL-1E75BA" height="30" /></a>
 
 <a href="https://img.shields.io/badge/Frameworks-React.js-00D5F7" target="blank"><img align="center" src="https://img.shields.io/badge/Frameworks and Libraries-React.js-00D5F7" height="30" /></a>
