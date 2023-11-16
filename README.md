@@ -9,6 +9,7 @@ Check out my [Portfolio](https://christian-dean-demesa-portfolio.netlify.app/), 
 Currently I am the father of two handsome boys, have a very loving wife, and currently live in Covina, CA. I have a bachelor's degree in philosophy, and three certificates from Coding Dojo in the Python, MERN, and Java full-stacks. My hobbies include hiking, playing piano, and writing about coding tutorials and philosophy.
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dyslecixdev&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dyslecixdev&layout=compact&repo=github-readme-stats" />
 
 ## Technologies
 
@@ -78,27 +79,9 @@ Currently I am the father of two handsome boys, have a very loving wife, and cur
 <a href="https://img.shields.io/badge/-Vitest-7ba525" target="blank"><img align="center" src="https://img.shields.io/badge/-Vitest-7ba525" height="30" /></a>
 <a href="https://img.shields.io/badge/-WordPress-0070E0" target="blank"><img align="center" src="https://img.shields.io/badge/-WordPress-0070E0" height="30" /></a>
 
-
-## Recent Projects
-<a href='https://github.com/christiandeandemesa/MERN-blog'>MERN BLOG</a>
-![mern-blog](https://user-images.githubusercontent.com/85912934/197316083-8f9376a2-4435-4906-a296-70793d6ba220.png)
-
-<a href='https://github.com/christiandeandemesa/MERN-ecommerce'>MERN E-COMMERCE</a>
-![mern-ecommerce](https://user-images.githubusercontent.com/85912934/205514208-da0bced5-fc0f-47b0-b849-b3309844d73b.png)
-
-<a href='https://github.com/christiandeandemesa/react-admin'>REACT ADMIN DASHBOARD</a>
-![react-admin](https://user-images.githubusercontent.com/85912934/208588793-5bdc25cc-02cb-4dc0-8e11-4b9fced6c2e7.png)
-
-<a href='https://github.com/christiandeandemesa/react-portfolio'>REACT PORTFOLIO</a>
-![react-portfolio](https://user-images.githubusercontent.com/85912934/214974007-6aea7eca-c147-495b-b294-335d1e98af52.png)
-
-<a href='https://github.com/christiandeandemesa/MERN-chat'>MERN CHAT</a>
-![mern-chat-old](https://user-images.githubusercontent.com/85912934/214715211-c1bbaca9-d250-444c-b7f7-e1c8b0b646cd.png)
-
-<a href='https://github.com/christiandeandemesa/MEAN-delivery'>MEAN DELIVERY</a>
-![mean-delivery](https://user-images.githubusercontent.com/85912934/219577501-e7ffb7fb-baa3-4436-b10a-ced9fb0ba9be.png)
-
 ## Contact Me
+<a href="https://media.giphy.com/media/Jxt4LYaJ7jCI8/giphy-downsized-large.gif" target="blank"><img align="center" src="https://media.giphy.com/media/Jxt4LYaJ7jCI8/giphy-downsized-large.gif" height="300" /></a>
+
 <a href="https://github.com/dyslecixdev" target="blank"><img align="center" src="https://img.shields.io/github/followers/dyslecixdev?style=social" height="30" /></a>
 <a href="https://christian-dean-demesa-portfolio.netlify.app/" target="blank"><img align="center" src="https://img.shields.io/badge/-Portfolio-9d3582" height="30" /></a>
 <a href="https://www.linkedin.com/in/dyslecixdev/" target="blank"><img align="center" src="https://img.shields.io/badge/-Linkedin-0b66c2" height="30" /></a>
