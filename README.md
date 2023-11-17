@@ -21,7 +21,7 @@ Hello, I'm a full-stack web developer at W Brand Studio with a B.A. in Philosoph
 <a href="https://img.shields.io/badge/-Java-EC2A2D" target="blank"><img align="center" src="https://img.shields.io/badge/-Java-EC2A2D" height="30" /></a>
 <a href="https://img.shields.io/badge/-SQL-1E75BA" target="blank"><img align="center" src="https://img.shields.io/badge/-SQL-1E75BA" height="30" /></a>
 
-<a href="https://img.shields.io/badge/Frameworks-React.js-00D5F7" target="blank"><img align="center" src="https://img.shields.io/badge/Frameworks and Libraries-React.js-00D5F7" height="30" /></a>
+<a href="https://img.shields.io/badge/Frameworks-React-00D5F7" target="blank"><img align="center" src="https://img.shields.io/badge/Frameworks and Libraries-React.js-00D5F7" height="30" /></a>
 <a href="https://img.shields.io/badge/-Next.js-black" target="blank"><img align="center" src="https://img.shields.io/badge/-Next.js-black" height="30" /></a>
 <a href="https://img.shields.io/badge/-Angular-D6002F" target="blank"><img align="center" src="https://img.shields.io/badge/-Angular-D6002F" height="30" /></a>
 <a href="https://img.shields.io/badge/-Flask-white" target="blank"><img align="center" src="https://img.shields.io/badge/-Flask-white" height="30" /></a>
