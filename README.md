@@ -53,13 +53,13 @@ Hello, I'm a full-stack web developer at W Brand Studio with a B.A. in Philosoph
 <a href="https://img.shields.io/badge/-NumPy-547cd0" target="blank"><img align="center" src="https://img.shields.io/badge/-NumPy-547cd0" height="30" /></a>
 <a href="https://img.shields.io/badge/-Pandas-1c0f5a" target="blank"><img align="center" src="https://img.shields.io/badge/-Pandas-1c0f5a" height="30" /></a>
 <a href="https://img.shields.io/badge/-Postman-FA7241" target="blank"><img align="center" src="https://img.shields.io/badge/-Postman-FA7241" height="30" /></a>
-<a href="https://img.shields.io/badge/-Firebase-FA7241" target="blank"><img align="center" src="https://img.shields.io/badge/-Firebase-FA7241" height="30" /></a>
+<a href="https://img.shields.io/badge/-Firebase-fdcd34" target="blank"><img align="center" src="https://img.shields.io/badge/-Firebase-fdcd34" height="30" /></a>
 <a href="https://img.shields.io/badge/-Supabase-42D093" target="blank"><img align="center" src="https://img.shields.io/badge/-Supabase-42D093" height="30" /></a>
 <a href="https://img.shields.io/badge/-Appwrite-f0366a" target="blank"><img align="center" src="https://img.shields.io/badge/-Appwrite-f0366a" height="30" /></a>
 <a href="https://img.shields.io/badge/-DigitalOcean-0B6DFF" target="blank"><img align="center" src="https://img.shields.io/badge/-DigitalOcean-0B6DFF" height="30" /></a>
 <a href="https://img.shields.io/badge/-JSON-9A7CA9" target="blank"><img align="center" src="https://img.shields.io/badge/-JSON-9A7CA9" height="30" /></a>
 <a href="https://img.shields.io/badge/-SASS-CC6596" target="blank"><img align="center" src="https://img.shields.io/badge/-SASS-CC6596" height="30" /></a>
-<a href="https://img.shields.io/badge/-Tailwind-42A4AC" target="blank"><img align="center" src="https://img.shields.io/badge/-Tailwind-42A4AC" height="30" /></a>
+<a href="https://img.shields.io/badge/-TailwindCSS-42A4AC" target="blank"><img align="center" src="https://img.shields.io/badge/-TailwindCSS-42A4AC" height="30" /></a>
 <a href="https://img.shields.io/badge/-Styled Components-d776b2" target="blank"><img align="center" src="https://img.shields.io/badge/-Styled Components-d776b2" height="30" /></a>
 <a href="https://img.shields.io/badge/-Bootstrap-7C24F6" target="blank"><img align="center" src="https://img.shields.io/badge/-Bootstrap-7C24F6" height="30" /></a>
 <a href="https://img.shields.io/badge/-Material UI-1383ff" target="blank"><img align="center" src="https://img.shields.io/badge/-Material UI-1383ff" height="30" /></a>
