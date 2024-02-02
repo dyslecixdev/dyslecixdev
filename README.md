@@ -1,4 +1,4 @@
-## Welcome to my Profile <a href="https://camo.githubusercontent.com/d3359cb00ab0b5ed8f2e1fe3fceb4fbaf3b614340f8c0db99c17b9f50b351770/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" target="blank"><img align="center" src="https://camo.githubusercontent.com/d3359cb00ab0b5ed8f2e1fe3fceb4fbaf3b614340f8c0db99c17b9f50b351770/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" height="30" /></a>
+## Welcome to my Profile
 
 ### My name is Christian Dean Demesa, and I'm a Software Engineer.
 Check out my [Portfolio](https://christian-dean-demesa-portfolio.netlify.app/), [LinkedIn](https://www.linkedin.com/in/dyslecixdev/), [Blog](https://logiclyceum.com/), [X (Twitter)](https://twitter.com/DyslecixDev), and [Instagram](https://www.instagram.com/dyslecixdev/).
